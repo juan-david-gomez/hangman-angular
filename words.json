@@ -1,0 +1,275 @@
+{
+	"words":
+	[
+
+        {"id":"1","category_id":"1" ,"name" :"Vaca"},
+        {"id":"2","category_id":"1" ,"name" :"Ornitorrinco"},
+        {"id":"3","category_id":"1" ,"name" :"Pato"},
+        {"id":"4","category_id":"1" ,"name" :"Toro"},
+        {"id":"5","category_id":"1" ,"name" :"Rinoceronte"},
+        {"id":"6","category_id":"1" ,"name" :"Hipopótamo"},
+        {"id":"7","category_id":"1" ,"name" :"Jirafa"},
+        {"id":"8","category_id":"1" ,"name" :"Renacuajo"},
+        {"id":"9","category_id":"1" ,"name" :"Cucaracha"},
+        {"id":"10","category_id":"1" ,"name" :"Hormiga"},
+        {"id":"11","category_id":"1" ,"name" :"Gusano"},
+        {"id":"12","category_id":"1" ,"name" :"Estrella de mar"},
+        {"id":"13","category_id":"1" ,"name" :"Caballo de mar"},
+        {"id":"14","category_id":"1" ,"name" :"Caballo salvaje"},
+        {"id":"15","category_id":"1" ,"name" :"Caballo"},
+        {"id":"16","category_id":"1" ,"name" :"Lobo"},
+        {"id":"17","category_id":"1" ,"name" :"Zebra"},
+        {"id":"18","category_id":"1" ,"name" :"Pony"},
+        {"id":"19","category_id":"1" ,"name" :"Yegua"},
+        {"id":"20","category_id":"1" ,"name" :"Zorro"},
+        {"id":"21","category_id":"1" ,"name" :"Conejo"},
+        {"id":"22","category_id":"1" ,"name" :"Leopardo"},
+        {"id":"23","category_id":"1" ,"name" :"Elefante"},
+        {"id":"24","category_id":"1" ,"name" :"Chimpancé"},
+        {"id":"25","category_id":"1" ,"name" :"Gorila"},
+        {"id":"26","category_id":"1" ,"name" :"Cocodrilo"},
+        {"id":"27","category_id":"1" ,"name" :"Ratón"},
+        {"id":"28","category_id":"1" ,"name" :"Mariposa"},
+        {"id":"29","category_id":"1" ,"name" :"Paloma"},
+        {"id":"30","category_id":"1" ,"name" :"León"},
+        {"id":"31","category_id":"1" ,"name" :"Tigre"},
+        {"id":"32","category_id":"1" ,"name" :"Kanguro"},
+        {"id":"33","category_id":"1" ,"name" :"Koala"},
+        {"id":"34","category_id":"1" ,"name" :"Avestruz"},
+        {"id":"35","category_id":"1" ,"name" :"Oso panda"},
+        {"id":"36","category_id":"1" ,"name" :"Ciervo"},
+        {"id":"37","category_id":"1" ,"name" :"Cabra"},
+        {"id":"38","category_id":"1" ,"name" :"Oveja"},
+        {"id":"39","category_id":"1" ,"name" :"Cerdo"},
+        {"id":"41","category_id":"1" ,"name" :"Gallina"},
+        {"id":"42","category_id":"1" ,"name" :"Ardilla"},
+        {"id":"43","category_id":"1" ,"name" :"Gato"},
+        {"id":"44","category_id":"1" ,"name" :"Perro"},
+        {"id":"45","category_id":"2" ,"name" :"Vaporeon"},
+        {"id":"46","category_id":"2" ,"name" :"Eevee"},
+        {"id":"47","category_id":"2" ,"name" :"Tauros"},
+        {"id":"48","category_id":"2" ,"name" :"Pikachu"},
+        {"id":"49","category_id":"2" ,"name" :"Snorlax"},
+        {"id":"50","category_id":"2" ,"name" :"Squirtle"},
+        {"id":"51","category_id":"2" ,"name" :"Staryu"},
+        {"id":"52","category_id":"2" ,"name" :"Pidgey"},
+        {"id":"53","category_id":"2" ,"name" :"Magikarp"},
+        {"id":"54","category_id":"2" ,"name" :"Charmander"},
+        {"id":"55","category_id":"2" ,"name" :"Weedle"},
+        {"id":"56","category_id":"2" ,"name" :"Clefairy"},
+        {"id":"57","category_id":"2" ,"name" :"Jigglypuff"},
+        {"id":"58","category_id":"2" ,"name" :"Psyduck"},
+        {"id":"59","category_id":"2" ,"name" :"Tentacool"},
+        {"id":"60","category_id":"2" ,"name" :"Poliwag"},
+        {"id":"61","category_id":"2" ,"name" :"Caterpie"},
+        {"id":"62","category_id":"2" ,"name" :"Seaking"},
+        {"id":"63","category_id":"2" ,"name" :"Nidoran"},
+        {"id":"64","category_id":"2" ,"name" :"Zubat"},
+        {"id":"65","category_id":"2" ,"name" :"Spearow"},
+        {"id":"66","category_id":"2" ,"name" :"Magmar"},
+        {"id":"67","category_id":"2" ,"name" :"Persian"},
+        {"id":"68","category_id":"2" ,"name" :"Ekans"},
+        {"id":"69","category_id":"2" ,"name" :"Bulbassaur"},
+        {"id":"70","category_id":"2" ,"name" :"Goldeen"},
+        {"id":"71","category_id":"2" ,"name" :"Seel"},
+        {"id":"72","category_id":"2" ,"name" :"Rattata"},
+        {"id":"73","category_id":"2" ,"name" :"Meowth"},
+        {"id":"74","category_id":"2" ,"name" :"Dratini"},
+        {"id":"75","category_id":"2" ,"name" :"Sandshrew"},
+        {"id":"76","category_id":"2" ,"name" :"Diglett"},
+        {"id":"77","category_id":"3" ,"name" :"Pizza"},
+        {"id":"78","category_id":"3" ,"name" :"Hamburguesa"},
+        {"id":"79","category_id":"3" ,"name" :"Hot dog"},
+        {"id":"80","category_id":"3" ,"name" :"Papas fritas"},
+        {"id":"81","category_id":"3" ,"name" :"Sopa"},
+        {"id":"82","category_id":"3" ,"name" :"Arroz"},
+        {"id":"83","category_id":"3" ,"name" :"Arroz chino"},
+        {"id":"84","category_id":"3" ,"name" :"Pollo frito"},
+        {"id":"85","category_id":"3" ,"name" :"Arepa"},
+        {"id":"86","category_id":"3" ,"name" :"Ensalada "},
+        {"id":"87","category_id":"3" ,"name" :"Tacos"},
+        {"id":"88","category_id":"3" ,"name" :"Nachos "},
+        {"id":"89","category_id":"3" ,"name" :"Espagueti "},
+        {"id":"90","category_id":"3" ,"name" :"Lasagna"},
+        {"id":"91","category_id":"3" ,"name" :"Pescado "},
+        {"id":"92","category_id":"3" ,"name" :"Pancakes "},
+        {"id":"93","category_id":"3" ,"name" :"Quesadillas "},
+        {"id":"94","category_id":"3" ,"name" :"Paella "},
+        {"id":"95","category_id":"3" ,"name" :"Camarones"},
+        {"id":"96","category_id":"3" ,"name" :"Carne molida"},
+        {"id":"97","category_id":"3" ,"name" :"Baby beef"},
+        {"id":"98","category_id":"3" ,"name" :"Carne llanera"},
+        {"id":"99","category_id":"3" ,"name" :"Frijoles"},
+        {"id":"100","category_id":"3" ,"name" :"Huevo "},
+        {"id":"101","category_id":"3" ,"name" :"Salchichas"},
+        {"id":"102","category_id":"3" ,"name" :"Carnes frías"},
+        {"id":"103","category_id":"3" ,"name" :"Carnes rojas"},
+        {"id":"104","category_id":"3" ,"name" :"Pudín "},
+        {"id":"105","category_id":"3" ,"name" :"Tiramuzú"},
+        {"id":"106","category_id":"3" ,"name" :"Galletas"},
+        {"id":"107","category_id":"3" ,"name" :"Pastel "},
+        {"id":"108","category_id":"3" ,"name" :"Cupcake"},
+        {"id":"109","category_id":"3" ,"name" :"Gelatina"},
+        {"id":"110","category_id":"3" ,"name" :"Tres leches"},
+        {"id":"111","category_id":"3" ,"name" :"Chocolate"},
+        {"id":"112","category_id":"3" ,"name" :"Cheesecake"},
+        {"id":"113","category_id":"3" ,"name" :"Ensalada de frutas"},
+        {"id":"114","category_id":"3" ,"name" :"Helado"},
+        {"id":"115","category_id":"3" ,"name" :"Pie"},
+        {"id":"116","category_id":"3" ,"name" :"Marialuisa"},
+        {"id":"117","category_id":"4" ,"name" :"Bogotá"},
+        {"id":"118","category_id":"4" ,"name" :"Medellín"},
+        {"id":"119","category_id":"4" ,"name" :"Cali"},
+        {"id":"120","category_id":"4" ,"name" :"Barranquilla"},
+        {"id":"121","category_id":"4" ,"name" :"Washington"},
+        {"id":"122","category_id":"4" ,"name" :"Texas"},
+        {"id":"123","category_id":"4" ,"name" :"Nueva Delhi"},
+        {"id":"124","category_id":"4" ,"name" :"Estambul"},
+        {"id":"125","category_id":"4" ,"name" :"Ankara"},
+        {"id":"126","category_id":"4" ,"name" :"Sydney"},
+        {"id":"127","category_id":"4" ,"name" :"Canberra"},
+        {"id":"128","category_id":"4" ,"name" :"Lima"},
+        {"id":"129","category_id":"4" ,"name" :"La Paz"},
+        {"id":"130","category_id":"4" ,"name" :"Madrid"},
+        {"id":"131","category_id":"4" ,"name" :"Barcelona"},
+        {"id":"132","category_id":"4" ,"name" :"Londres"},
+        {"id":"133","category_id":"4" ,"name" :"Toronto"},
+        {"id":"134","category_id":"4" ,"name" :"Atenas"},
+        {"id":"135","category_id":"4" ,"name" :"Rio de Janeiro"},
+        {"id":"136","category_id":"4" ,"name" :"Sao Paulo"},
+        {"id":"137","category_id":"4" ,"name" :"París"},
+        {"id":"138","category_id":"4" ,"name" :"Venecia"},
+        {"id":"139","category_id":"4" ,"name" :"Florencia"},
+        {"id":"140","category_id":"4" ,"name" :"La Habana"},
+        {"id":"141","category_id":"4" ,"name" :"Tokio"},
+        {"id":"142","category_id":"4" ,"name" :"Jerusalén"},
+        {"id":"143","category_id":"4" ,"name" :"Tel Aviv"},
+        {"id":"144","category_id":"4" ,"name" :"Granada"},
+        {"id":"145","category_id":"4" ,"name" :"Lisboa"},
+        {"id":"146","category_id":"4" ,"name" :"Ámsterdam"},
+        {"id":"147","category_id":"4" ,"name" :"Luxor"},
+        {"id":"148","category_id":"4" ,"name" :"Berlin"},
+        {"id":"149","category_id":"4" ,"name" :"Viena"},
+        {"id":"150","category_id":"4" ,"name" :"Cuzco"},
+        {"id":"151","category_id":"4" ,"name" :"Cartagena"},
+        {"id":"152","category_id":"4" ,"name" :"Las Vegas"},
+        {"id":"153","category_id":"4" ,"name" :"Praga"},
+        {"id":"154","category_id":"4" ,"name" :"Budapest"},
+        {"id":"155","category_id":"4" ,"name" :"Nueva York"},
+        {"id":"156","category_id":"4" ,"name" :"Buenos Aires"},
+        {"id":"157","category_id":"4" ,"name" :"Ottawa"},
+        {"id":"158","category_id":"4" ,"name" :"Quebec"},
+        {"id":"159","category_id":"4" ,"name" :"Moscú"},
+        {"id":"160","category_id":"5" ,"name" :"Fresa"},
+        {"id":"161","category_id":"5" ,"name" :"Pera"},
+        {"id":"162","category_id":"5" ,"name" :"Maracuyá"},
+        {"id":"163","category_id":"5" ,"name" :"Mango"},
+        {"id":"164","category_id":"5" ,"name" :"Mora"},
+        {"id":"165","category_id":"5" ,"name" :"Kiwi"},
+        {"id":"166","category_id":"5" ,"name" :"Banano"},
+        {"id":"167","category_id":"5" ,"name" :"Uva"},
+        {"id":"168","category_id":"5" ,"name" :"Papaya"},
+        {"id":"169","category_id":"5" ,"name" :"Naranja"},
+        {"id":"170","category_id":"5" ,"name" :"Mandarina"},
+        {"id":"171","category_id":"5" ,"name" :"Melocotón"},
+        {"id":"172","category_id":"5" ,"name" :"Durazno"},
+        {"id":"173","category_id":"5" ,"name" :"Zapote"},
+        {"id":"174","category_id":"5" ,"name" :"Zanahoria"},
+        {"id":"175","category_id":"5" ,"name" :"Lechuga"},
+        {"id":"176","category_id":"5" ,"name" :"Tomate"},
+        {"id":"177","category_id":"5" ,"name" :"Papa"},
+        {"id":"178","category_id":"5" ,"name" :"Yuca"},
+        {"id":"179","category_id":"5" ,"name" :"Aguacate"},
+        {"id":"180","category_id":"5" ,"name" :"Lulo"},
+        {"id":"181","category_id":"5" ,"name" :"Limón"},
+        {"id":"182","category_id":"5" ,"name" :"Habichuela"},
+        {"id":"183","category_id":"5" ,"name" :"Remolacha"},
+        {"id":"184","category_id":"5" ,"name" :"Ajo"},
+        {"id":"185","category_id":"5" ,"name" :"Cebolla"},
+        {"id":"186","category_id":"5" ,"name" :"Berenjena"},
+        {"id":"187","category_id":"5" ,"name" :"Brócoli"},
+        {"id":"188","category_id":"5" ,"name" :"Calabaza"},
+        {"id":"189","category_id":"5" ,"name" :"Pepino"},
+        {"id":"190","category_id":"5" ,"name" :"Ciruela"},
+        {"id":"191","category_id":"5" ,"name" :"Cereza"},
+        {"id":"192","category_id":"5" ,"name" :"Mora azul"}
+	]
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

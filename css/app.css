@@ -1,0 +1,87 @@
+html,body{
+	height: 100%
+}
+body{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.containerApp{
+	width: 50%;
+}
+.wordContainer{
+	display: flex;
+	justify-content: center;
+	margin-top: 10px;
+	margin-bottom: 20px;
+	flex-wrap: wrap;
+}
+
+.wordItem{
+    margin-left: 40px;
+    height: 4em;
+    width: 2em;
+
+}
+.fullLetterErr{
+	color:red;
+}
+.wordLetterErr{
+	color:red;
+	margin-left: 0px;
+}
+
+.wordLetter {
+    border-bottom: 2px solid black;
+    text-align: center;
+}
+
+.center{
+	text-align: center;
+}
+
+#letterSpace{
+	border: 1px dashed black;
+	min-height: 40px;
+}
+
+#drawSpace{
+	height: 260px;
+	width: 190px;
+}
+
+.attempt0{
+	background-image: url('../img/attempt0.png');
+	background-repeat: no-repeat;
+    background-position: center;
+}
+.attempt1{
+	background-image: url('../img/attempt1.png');
+	background-repeat: no-repeat;
+    background-position: center;
+}
+.attempt2{
+	background-image: url('../img/attempt2.png');
+	background-repeat: no-repeat;
+    background-position: center;
+}
+.attempt3{
+	background-image: url('../img/attempt3.png');
+	background-repeat: no-repeat;
+    background-position: center;
+}
+.attempt4{
+	background-image: url('../img/attempt4.png');
+	background-repeat: no-repeat;
+    background-position: center;
+}
+.attempt5{
+	background-image: url('../img/attempt5.png');
+	background-repeat: no-repeat;
+    background-position: center;
+}
+.attempt6{
+	background-image: url('../img/attempt6.png');
+	background-repeat: no-repeat;
+    background-position: center;
+}

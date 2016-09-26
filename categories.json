@@ -1,0 +1,9 @@
+{
+	"categories":[
+	{"id":"1","name":"Animales","created_at":null,"updated_at":null},
+	{"id":"2","name":"Pokémon","created_at":null,"updated_at":null},
+	{"id":"3","name":"Comidas y postres","created_at":null,"updated_at":null},
+	{"id":"4","name":"Ciudades del mundo","created_at":null,"updated_at":null},
+	{"id":"5","name":"Frutas y verduras","created_at":null,"updated_at":null}
+	]
+}
