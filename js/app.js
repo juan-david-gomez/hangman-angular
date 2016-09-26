@@ -3,7 +3,7 @@
 
 var app = angular.module('hangman',[]);
 
-app.constant('APIURL','/');
+app.constant('APIURL','/hangman-angular/');
 
 app.controller('main',['$scope','hangman',mainFunction]);
 
